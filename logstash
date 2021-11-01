@@ -1,0 +1,33 @@
+#/usr/share/logstash/bin$ sudo ./logstash -f /etc/logstash/conf.d/json.conf 
+#/usr/share/logstash/bin$ sudo ./logstash -f /etc/logstash/conf.d/json.conf --path.settings /etc/logstash/ 
+
+input {
+       file {
+               type => "json"
+               path => "/home/karamozi_backend/logger_app/requests_body.jsonl"
+               # start_position => "beginning"
+               # sincedb_path => "/dev/null"
+               codec => "json"
+       }
+}
+
+
+output {
+        mongodb {
+                uri => 'mongodb://localhost'
+                database => "testDB"
+                collection => 'testCollection'
+                generateId => "true"
+                codec => "json"
+        }
+} 
+
+
+output {
+        elasticsearch { 
+                hosts => ["192.168.1.15:9200"]
+                user => "test"
+                password => "qwe123QWE!@#"
+        }
+}
+
