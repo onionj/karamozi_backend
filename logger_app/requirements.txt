@@ -51,7 +51,7 @@ pycairo==1.16.2
 pycodestyle==2.8.0
 pycups==2.0.1
 pycurl==7.43.0.6
-Pygments==2.7.1
+Pygments==2.7.4
 PyGObject==3.38.0
 pylibacl==0.6.0
 pyOpenSSL==20.0.1
