@@ -26,7 +26,7 @@ gunicorn==20.1.0
 gyp==0.1
 h11==0.12.0
 html5lib==1.1
-httpie==2.2.0
+httpie==3.1.0
 httptools==0.2.0
 idna==3.3
 iniconfig==1.1.1
