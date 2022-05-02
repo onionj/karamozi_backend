@@ -3,7 +3,7 @@
 
 #  پروژه کارآموزی    
 
-
+پروژه کاراموزی برای یادگیری ELK, SQL, noSQL, FastAPI/Flask, tests, nginx, code profiler, code coverage, redis,..
 
 ### فاز اول:
 
