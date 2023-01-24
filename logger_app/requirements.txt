@@ -37,7 +37,7 @@ jsonlines==2.0.0
 keyring==22.0.1
 louis==3.16.0
 MarkupSafe==2.0.1
-mechanize==0.4.5
+mechanize==0.4.6
 netifaces==0.10.9
 packaging==21.0
 pluggy==1.0.0
