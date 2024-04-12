@@ -28,7 +28,7 @@ h11==0.12.0
 html5lib==1.1
 httpie==3.1.0
 httptools==0.2.0
-idna==3.3
+idna==3.7
 iniconfig==1.1.1
 itsdangerous==2.0.1
 jeepney==0.6.0
