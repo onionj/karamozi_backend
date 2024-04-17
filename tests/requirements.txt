@@ -20,7 +20,7 @@ docopt==0.6.2
 execnet==1.9.0
 fuse-python==1.0.2
 gpg===1.14.0-unknown
-gunicorn==20.1.0
+gunicorn==22.0.0
 gyp==0.1
 h11==0.12.0
 html5lib==1.1
