@@ -66,7 +66,7 @@ pythondialog==3.5.2
 pyxattr==0.7.2
 pyxdg==0.27
 PyYAML==6.0
-requests==2.25.1
+requests==2.32.0
 requests-toolbelt==0.9.1
 SecretStorage==3.3.1
 six==1.16.0
