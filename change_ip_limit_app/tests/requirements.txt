@@ -10,4 +10,4 @@ pyparsing==2.4.7
 pytest==6.2.5
 requests==2.26.0
 toml==0.10.2
-urllib3==1.26.7
+urllib3==2.5.0
