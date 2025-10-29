@@ -29,7 +29,7 @@ httptools==0.2.0
 idna==2.10
 iniconfig==1.1.1
 jeepney==0.6.0
-Jinja2==3.0.2
+Jinja2==3.1.4
 keyring==22.0.1
 louis==3.16.0
 MarkupSafe==2.0.1
