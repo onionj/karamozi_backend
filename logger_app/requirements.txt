@@ -19,7 +19,7 @@ distro-info==1.0
 dnspython==2.0.0
 docopt==0.6.2
 execnet==1.9.0
-Flask==2.0.2
+Flask==2.3.2
 fuse-python==1.0.2
 gpg===1.14.0-unknown
 gunicorn==20.1.0
