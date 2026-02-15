@@ -16,7 +16,7 @@ cupshelpers==1.0
 dbus-python==1.2.16
 distro==1.6.0
 distro-info==1.0
-dnspython==2.0.0
+dnspython==2.6.1
 docopt==0.6.2
 execnet==1.9.0
 Flask==2.0.2
